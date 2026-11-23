@@ -95,6 +95,50 @@ The browser game scripts behind games.zuujis.com (keyboard, gamepad and touch) a
 </tr>
 </table>
 
+<!-- mirrors:start -->
+## Mirrors of other CC0 sources
+
+Copies of other people's CC0 work, so game makers can take single files straight from GitHub. Each repository holds one category (under 1 GB), credits its source and lists every file with its size and SHA-256, and **fills and updates itself** every week. They are made by [cc0-mirror](https://github.com/zuujis-cc0/cc0-mirror); the sources are not affiliated with us, and their own sites have the originals in more formats and sizes. Please support them.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://github.com/orgs/zuujis-cc0/repositories?q=polyhaven-"><img src="images/polyhaven.webp" width="100%" alt="Poly Haven textures and models: wood, stone, fabric, a chair and plants"></a>
+
+### 🏞️ Poly Haven
+Photo-scanned textures (1K and 2K maps), glTF models and HDRI skies, one repository per category.
+
+**2,392 assets in 64 repositories, 36.7 GB.** 43 of 64 filled so far.
+
+[All repositories](https://github.com/orgs/zuujis-cc0/repositories?q=polyhaven-) · [polyhaven.com](https://polyhaven.com) · [Support Poly Haven](https://www.patreon.com/polyhaven/overview)
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/orgs/zuujis-cc0/repositories?q=ambientcg-"><img src="images/ambientcg.webp" width="100%" alt="ambientCG materials: bricks, tiles, metal, ground and fabric"></a>
+
+### 🧱 ambientCG
+PBR materials, decals, atlases and terrains (1K and 2K), HDRIs, low-poly models and Substance files.
+
+**2,933 assets in 108 repositories, 73.1 GB.** 16 of 108 filled so far.
+
+[All repositories](https://github.com/orgs/zuujis-cc0/repositories?q=ambientcg-) · [ambientcg.com](https://ambientcg.com) · [Support ambientCG](https://www.patreon.com/ambientCG)
+</td>
+<td width="33%" valign="top">
+
+### 🎮 OpenGameArt
+Every CC0 entry as uploaded (ZIPs unpacked), Kenney's and Quaternius's uploads first. OpenGameArt asks for ten seconds between requests, so this one grows a little every day.
+
+**Being catalogued now;** its repositories appear here as they are made.
+
+[All repositories](https://github.com/orgs/zuujis-cc0/repositories?q=opengameart-) · [opengameart.org](https://opengameart.org) · [Support OpenGameArt](https://opengameart.org/content/faq)
+</td>
+</tr>
+</table>
+
+Coming next: links-only lists of CC0 packs on itch.io and Freesound (downloads stay on their sites).
+<!-- mirrors:end -->
+
 ## Get involved
 
 - **Made something with these?** [Tell us about it](https://github.com/zuujis-cc0/free-game-assets/issues/new?template=asset-use.yml): it shows what is worth making next.

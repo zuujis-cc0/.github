@@ -1,0 +1,38 @@
+# Keeps the mirrors part of the organisation profile (profile/README.md) up to date: the numbers on each source's
+# card and the "browse by topic" links from the catalogue. Daily, after the catalogue's own update, or by hand.
+# Uses only this repository's own token. Only actions published by GitHub itself, pinned by commit.
+name: profile
+
+on:
+  schedule:
+    - cron: "10 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Write the mirrors part
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MIRROR_ORG: ${{ github.repository_owner }}
+        run: python3 scripts/build-mirrors.py
+      - name: Push it
+        run: |
+          git add profile/README.md
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -q -m "Profile: mirrors $(date -u +%Y-%m-%d)"
+          git push -q
