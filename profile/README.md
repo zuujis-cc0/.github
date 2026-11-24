@@ -109,7 +109,7 @@ Copies of other people's CC0 work, so game makers can take single files straight
 ### 🏞️ Poly Haven
 Photo-scanned textures (1K and 2K maps), glTF models and HDRI skies, one repository per category.
 
-**2,392 assets in 64 repositories, 36.7 GB.** 61 of 64 filled so far.
+**2,392 assets in 64 repositories, 36.7 GB.** 63 of 64 filled so far.
 
 [All repositories](https://github.com/orgs/zuujis-cc0/repositories?q=polyhaven-) · [polyhaven.com](https://polyhaven.com) · [Support Poly Haven](https://www.patreon.com/polyhaven/overview)
 </td>
@@ -120,7 +120,7 @@ Photo-scanned textures (1K and 2K maps), glTF models and HDRI skies, one reposit
 ### 🧱 ambientCG
 PBR materials, decals, atlases and terrains (1K and 2K), HDRIs, low-poly models and Substance files.
 
-**2,933 assets in 108 repositories, 73.1 GB.** 44 of 108 filled so far.
+**2,933 assets in 108 repositories, 73.1 GB.** 107 of 108 filled so far.
 
 [All repositories](https://github.com/orgs/zuujis-cc0/repositories?q=ambientcg-) · [ambientcg.com](https://ambientcg.com) · [Support ambientCG](https://www.patreon.com/ambientCG)
 </td>
