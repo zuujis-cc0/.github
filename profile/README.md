@@ -109,7 +109,7 @@ Copies of other people's CC0 work, so game makers can take single files straight
 ### 🏞️ Poly Haven
 Photo-scanned textures (1K and 2K maps), glTF models and HDRI skies, one repository per category.
 
-**2,392 assets in 64 repositories, 36.7 GB.** 63 of 64 filled so far.
+**2,393 assets in 64 repositories, 36.7 GB.** 63 of 64 filled so far.
 
 [All repositories](https://github.com/orgs/zuujis-cc0/repositories?q=polyhaven-) · [polyhaven.com](https://polyhaven.com) · [Support Poly Haven](https://www.patreon.com/polyhaven/overview)
 </td>
@@ -129,7 +129,7 @@ PBR materials, decals, atlases and terrains (1K and 2K), HDRIs, low-poly models 
 ### 🎮 OpenGameArt
 Every CC0 entry as uploaded (ZIPs unpacked), Kenney's and Quaternius's uploads first. OpenGameArt asks for ten seconds between requests, so this one grows a little every day.
 
-**1,530 assets in 32 repositories, 19.1 GB.** 9 of 32 filled so far.
+**3,081 assets in 59 repositories, 41.3 GB.** 31 of 59 filled so far.
 
 [All repositories](https://github.com/orgs/zuujis-cc0/repositories?q=opengameart-) · [opengameart.org](https://opengameart.org) · [Support OpenGameArt](https://opengameart.org/content/faq)
 </td>
@@ -138,9 +138,9 @@ Every CC0 entry as uploaded (ZIPs unpacked), Kenney's and Quaternius's uploads f
 
 ### Browse by topic
 
-Too many repositories to list here, so [**the catalogue**](https://github.com/zuujis-cc0/cc0-catalog#readme) groups all 6,855 assets by what they are, across sources, with a picture of each.
+Too many repositories to list here, so [**the catalogue**](https://github.com/zuujis-cc0/cc0-catalog#readme) groups all 8,407 assets by what they are, across sources, with a picture of each.
 
-**🧱 Textures and materials:** [Wood](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/wood.md) (526) · [Brick and block](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/brick.md) (302) · [Stone and rock](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/stone.md) (353) · [Roads and paving](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/paving.md) (283) · [Tiles and roofing](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/tiles.md) (251) · [Concrete, plaster and walls](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/walls.md) (267) · [Ground, grass and snow](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/ground.md) (411) · [Metal](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/metal.md) (290) · [Fabric and leather](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/fabric.md) (252) · [Dirt, scratches and wear](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/wear.md) (66) · [Plastic, paper and more](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/other-surfaces.md) (133)
+**🧱 Textures and materials:** [Wood](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/wood.md) (526) · [Brick and block](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/brick.md) (302) · [Stone and rock](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/stone.md) (353) · [Roads and paving](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/paving.md) (283) · [Tiles and roofing](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/tiles.md) (251) · [Concrete, plaster and walls](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/walls.md) (267) · [Ground, grass and snow](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/ground.md) (411) · [Metal](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/metal.md) (290) · [Fabric and leather](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/fabric.md) (253) · [Dirt, scratches and wear](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/wear.md) (66) · [Plastic, paper and more](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/other-surfaces.md) (133)
 
 **🩹 Decals and atlases:** [Decals](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/decals.md) (127) · [Atlases and brushes](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/atlases.md) (65)
 
@@ -148,7 +148,7 @@ Too many repositories to list here, so [**the catalogue**](https://github.com/zu
 
 **🪑 3D models:** [Furniture, decor and lights](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/furniture.md) (151) · [Plants, rocks and nature](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/nature-models.md) (103) · [Food and kitchen](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/food.md) (67) · [Tools and weapons](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/tools.md) (65) · [Vehicles](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/vehicles.md) (11) · [Buildings and industry](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/buildings.md) (37) · [Everyday objects](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/objects.md) (122)
 
-**🎮 Game art:** [2D art and sprites](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/art-2d.md) (619) · [3D game art](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/art-3d.md) (273) · [Game textures](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/game-textures.md) (95) · [Music](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/music.md) (459) · [Sound effects](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/sounds.md) (68) · [Concept art](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/concept.md) (10) · [Other game assets](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/game-other.md) (6)
+**🎮 Game art:** [2D art and sprites](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/art-2d.md) (1,114) · [3D game art](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/art-3d.md) (539) · [Game textures](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/game-textures.md) (148) · [Music](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/music.md) (1,090) · [Sound effects](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/sounds.md) (148) · [Concept art](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/concept.md) (27) · [Other game assets](https://github.com/zuujis-cc0/cc0-catalog/blob/main/topics/game-other.md) (15)
 
 Coming next: links-only lists of CC0 packs on itch.io and Freesound (downloads stay on their sites).
 <!-- mirrors:end -->
